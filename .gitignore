@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.pyc
+/tmp/
+/qa/
+/Chen_Yanguang_Resume.docx
+/Chen_Yanguang_Cover_Letter.docx
+/build_career_documents.py
+/build_one_page_resume.py
+.env
+.env.*
+!.env.example
+*.pem
+*.key
