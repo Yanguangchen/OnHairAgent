@@ -1,6 +1,6 @@
 ---
 name: heygen-burmese-facebook-workflow
-description: Create Burmese June-avatar videos in HeyGen Video Agent, download the MP4 locally, and distribute requested campaigns to the usual Facebook groups or ON Hair & Beauty Google Business Profile galleries and Burmese updates.
+description: Create Burmese June-avatar and June-voice videos in HeyGen Video Agent, download the MP4 locally, and distribute requested campaigns to the usual Facebook groups or ON Hair & Beauty Google Business Profile galleries and Burmese updates.
 ---
 
 # HeyGen Burmese video, Facebook outreach, and GBP distribution
@@ -22,7 +22,7 @@ The shared repository is https://github.com/Yanguangchen/OnHairAgent.git. The pr
 ## Remembered user preferences
 
 - Open HeyGen Video Agent at https://app.heygen.com/home/video-agent.
-- Always select the avatar **June**, using the **Avatar** control inside the AI chat box. Verify the actual selection; mentioning June in the prompt alone is insufficient.
+- Always select the **June avatar** using the **Avatar** control inside the AI chat box, and separately select the **June voice** in the voice control. Verify both selections; choosing the June avatar or mentioning June in a prompt does not establish the voice. If a June voice that can deliver Burmese is unavailable, stop and ask rather than silently substituting Coral or another voice.
 - Explicitly instruct the agent to **speak Burmese** and use **Burmese words** for the script, subtitles, and on-screen text. Use Myanmar Unicode, not romanized Burmese. Retain accurate business names and contact details where needed.
 - Generate the finished video and download the MP4 to a folder on the user's computer. The established default is `/Users/yanguangchen/Downloads/`, unless the user specifies another local folder.
 - When asked to use the full workflow, post the downloaded video to the usual Facebook groups with a Burmese caption.
@@ -52,15 +52,15 @@ For Facebook research, qualification, and posting, also use the installed skill 
 ## 2. Generate in HeyGen Video Agent
 
 1. Open the specified Video Agent URL in the user's appropriate logged-in browser session.
-2. Click **Avatar** in the AI chat box, select **June**, and verify the selected avatar before submitting the generation request. If June is unavailable, report the concrete issue; do not silently choose another avatar.
+2. Click **Avatar** in the AI chat box and select **June**. Separately open the voice control and select **June voice**. Verify both selections and Burmese-language capability before submitting the generation request. If either is unavailable, report the concrete issue; do not substitute another avatar or voice.
 3. Supply the campaign brief and explicit language requirements. This is a reusable prompt structure, with bracketed fields filled from the current brief:
 
-   > Create a video for [business] about [verified campaign message]. Use the selected avatar June throughout the speaking scenes. June must speak entirely in Burmese (Myanmar language). Write the narration, subtitles, and all explanatory on-screen text in natural Burmese using Myanmar Unicode, not English narration or romanized Burmese. Preserve the exact business name and verified contact details: [details]. Use only these factual claims: [claims]. End with [approved call to action].
+   > Create a video for [business] about [verified campaign message]. Use the selected June avatar and the separately selected June voice throughout the speaking scenes. June must speak natural Burmese (Myanmar language) in a calm, warm, conversational tone at a moderate pace and normal volume—never shouting or using an exaggerated announcer voice. Write the narration, subtitles, and all explanatory on-screen text in natural Burmese using Myanmar Unicode, not English narration or romanized Burmese. Preserve the exact business name and verified contact details: [details]. Use only these factual claims: [claims]. End with a gentle [approved call to action].
 
 4. A vertical 9:16 video around 30–45 seconds is a practical default for this Facebook workflow when the user has not specified length or format. This is an implementation default, not an explicit user requirement.
-5. Review the proposed script/storyboard and available language/avatar settings. Correct English narration, missing Burmese text, or an incorrect avatar before rendering.
+5. Review the proposed script/storyboard and available language, avatar, and voice settings. Correct English narration, missing Burmese text, the wrong voice, an incorrect avatar, or shouty delivery before rendering. Audition the spoken Burmese in every speaking scene when the preview is available.
 6. Start generation and follow the visible progress to a completed playable video. Do not buy credits, upgrade plans, or create a subscription without authorization. If existing credits are insufficient, preserve the project and explain the blocker.
-7. Preview the finished video. Check June, Burmese narration, readable Burmese text, correct business information, aspect ratio, and audio/video playback. If an element cannot be verified, state that limitation instead of claiming it passed.
+7. Preview the finished video and actually listen to its narration. Check June avatar **and June voice**, natural Burmese pronunciation and calm delivery, readable Burmese text, correct business information, aspect ratio, and audio/video playback. Audio presence or loudness measurements alone do not verify the voice or delivery. If spoken quality cannot be audibly checked, pause before publishing and ask the user to review it; do not claim media QA passed.
 
 ## 3. Download and verify locally
 

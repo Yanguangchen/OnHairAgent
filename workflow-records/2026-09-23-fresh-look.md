@@ -13,6 +13,7 @@ This is a **new** campaign, distinct from the completed 22 September campaign an
 - Original local download: `/Users/yanguangchen/Downloads/A Fresh Look, Your Way_1080p.mp4` (47,288,217 bytes; H.264/AAC stereo; 1080×1920; 45.61 seconds; SHA-256 `eca9e72ed983b89fcfd9c6016f279811a2ee832491aeee9949b8892bf6993db2`). An unchanged repository copy is `work/ON-Hair-and-Beauty-Fresh-Look-Burmese-June-2026-09-23.mp4` with the same SHA-256.
 - A separate GBP gallery version is `work/ON-Hair-and-Beauty-Fresh-Look-Burmese-June-GBP-28s-2026-09-23.mp4` (15,750,651 bytes; H.264/AAC; 1080×1920; 28.04 seconds; SHA-256 `584fbe98178f415f799f206757f3f1c815d2917ee8143c78bcee1d69ffdba5d7`). It fades/ends before the longer scene transition to meet Google's then-current 30-second gallery limit. The full Facebook original was preserved. The shortened ending frame shows a complete Burmese sentence and branding.
 - Sampled frames showed June, Burmese on-screen text, and the ON Hair & Beauty brand. Audio was present and non-silent. A full acoustic transcription was not performed, so exact narration/caption accuracy is not independently certified.
+- Retrospective correction on 24 September: the user specified **June voice as well as June avatar**. This campaign used Coral voice instead, and the user reported that the spoken delivery sounded like shouting. That was a voice-selection and audio-QA miss; do not reuse Coral as a substitute or treat this export as an approved voice reference. The live posts were not changed by this correction.
 
 ## Facebook distribution
 
