@@ -80,11 +80,11 @@ The source video finished processing and was found by the exact campaign phrase 
 | `715798822492338` | Live verified; original local MP4 upload / source Reel |
 | `1765065940589726` | Live verified; shared Reel |
 | `254584679120105` (`sgmmnews`) | Live verified; shared Reel |
-| `1015065566214229` | Live verified; shared Reel |
+| `1015065566214229` | Shared Reel submitted; previously reported live, now provisional pending stronger verification (see audit below) |
 | `1346693313495175` | Live verified; shared Reel |
-| `400578237627032` | Live verified; shared Reel |
+| `400578237627032` | Shared Reel submitted; previously reported live, now provisional pending stronger verification (see audit below) |
 | `3150976601791475` | Live verified on group feed with exact caption and 27-second Reel; three other posts were awaiting administrator approval, but this campaign's post was visible |
-| `195004445628994` | Live verified after search indexing delay; shared Reel |
+| `195004445628994` | Shared Reel submitted; previously reported live, now provisional pending stronger verification (see audit below) |
 | `1138478539957433` | Not submitted: picker has two visually identical `စင်ကာပူရောက်မြန်မာများ` entries without accessible IDs; exact destination could not be established safely |
 | `1222374187943874` | Not submitted: same duplicate-name ambiguity |
 | `3110745002568050` | Skipped: current group purpose observed as jobs-only; salon campaign off-topic |
@@ -92,4 +92,12 @@ The source video finished processing and was found by the exact campaign phrase 
 | `386172886673593` | Blocked: group still paused since 29 August; no new submission |
 | `211360618921341` | Blocked: five pending posts and pending-content limit still displayed on 24 September; no new submission |
 
-**Totals:** eight live verified (source plus seven shares), zero newly queued as pending from this campaign, two duplicate-name destinations left unposted for ID safety, one off-topic skip, and three group-state blocks. The four rule-excluded IDs from the historical registry were not attempted. A one-off account switch to another managed profile occurred while opening an unrelated Facebook notification; Jia Li was explicitly restored and reverified before every subsequent share. No other profile was used to post this campaign.
+**Original reported totals, corrected by the audit below:** eight live verified (source plus seven shares), zero newly queued as pending from this campaign, two duplicate-name destinations left unposted for ID safety, one off-topic skip, and three group-state blocks. The four rule-excluded IDs from the historical registry were not attempted. A one-off account switch to another managed profile occurred while opening an unrelated Facebook notification; Jia Li was explicitly restored and reverified before subsequent sharing. No other profile was used to post this campaign.
+
+## Skill-update audit — 24 September
+
+The preceding eight-live total was the report at the end of distribution. Reviewing the actual verification steps exposed an evidence gap: the final checks for `1015065566214229`, `400578237627032`, and `195004445628994` returned only a boolean based on the presence of a `container Jia Li`. They did not expose the loaded group ID together with the exact caption and Reel in the retained output; earlier navigation sometimes returned stale pages. These three shares were submitted, but their reported live status is **provisional and needs stronger verification**. This does not establish that they failed. Check the current exact-ID group feed/search and pending content before any retry; do not duplicate them.
+
+Five destinations have explicit captured group/campaign evidence in the continuation: source `715798822492338`, `1765065940589726`, `254584679120105`, `1346693313495175`, and `3150976601791475`. The last was seen in its group feed with the matching caption and 27-second Reel alongside a separate count of three pending posts. No new browser publishing or deletion occurred during this skill-update audit. The duplicate-name attempt was rejected by automatic approval review before execution, due to unresolved destination identity; both entries remain unsubmitted. The rules and dated restrictions must still be rechecked on a future run.
+
+The repository and installed workflow skill now record the mistakes, the recoveries that actually worked, remaining evidence gaps, and the user's full sequence: HeyGen → local download → Facebook in Safari → GBP galleries → GBP Updates, subject to a narrower current request.
