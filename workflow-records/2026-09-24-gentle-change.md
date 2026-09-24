@@ -26,4 +26,6 @@ HeyGen completed a third correction using direct/rasterized Burmese subtitle ove
 
 The 1080p Video download was attempted again. Chrome navigated to `resource2.heygen.ai is blocked` with `ERR_BLOCKED_BY_CLIENT`, and no new `A Gentle Change for You` MP4 was found in `/Users/yanguangchen/Downloads/`. Do not bypass the browser block. The user was asked to download the new 1080p Video manually, provide the exact filename, and listen for natural, calm Burmese before distribution.
 
+Correction after the user challenged the download account: the prior `A Fresh Look, Your Way` file did reach Downloads, but the user says they did **not** download it manually. Its downloader is unverified; do not treat the earlier unsupported attribution as evidence that this new export requires user intervention. Continue checking authorized native download paths, while preserving browser security controls.
+
 **Replacement remains pending**: no accepted local file, no audio approval, no new GBP gallery upload, and no old Coral gallery deletion. Preserve the old gallery media until the replacement passes QA and can be uploaded. Leave the text-only GBP Updates and the other older gallery videos untouched. No Facebook post or GBP Update was made for this new campaign. Do not duplicate the earlier completed campaigns.
