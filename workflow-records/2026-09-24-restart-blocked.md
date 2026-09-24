@@ -12,4 +12,4 @@ The user asked to restart the full HeyGen → Facebook → GBP gallery → GBP U
 
 ## Next action
 
-Ask the user whether to keep the strict June voice requirement and wait for a verifiably Burmese-capable June option, or explicitly authorize a different Burmese-capable voice with June avatar. Do not silently substitute Coral or publish unreviewed audio. If the user still wants the separate removal of the prior GBP video, confirm that request and handle it as a distinct action.
+The user clarified that the Burmese filter was not required: select June avatar and June voice, prompt for Burmese speech and text, then judge the generated result. The earlier filter mismatch is **not** a blocker. Do not silently substitute Coral or publish unreviewed audio. The full workflow may resume under the corrected instructions. If the user still wants the separate removal of the prior GBP video, confirm that request and handle it as a distinct action.
