@@ -43,3 +43,53 @@ Audio could not be heard in the available assistant interface; file inspection p
 The downloaded MP4 was sampled across its full 26.732-second timeline and at full resolution in the opening and later speaking scenes. The June presenter, salon imagery, ON Hair & Beauty branding, and rasterized Myanmar glyphs are visible; the earlier square-box caption failure is not present in the checked frames. The middle-scene white Burmese text over a light salon background has weaker contrast than the large opening caption and may be harder to read on a phone.
 
 The file decodes with an AAC audio track. Measured speaking-window mean/max levels were approximately −27.3/−10.6 dB (new opening) and −27.4/−10.8 dB (new ending), versus −30.5/−12.6 dB and −31.1/−12.2 dB for comparable sections of the prior Coral export. The new audio is thus roughly 3–4 dB louder in the sampled windows; this does **not** establish shouting, calmness, pronunciation, or voice identity. The assistant's available media interface can display frames but does not deliver playable sound to the model; an attempted audio output explicitly reported that audio input is unsupported. No independent audible quality approval has been made, and no GBP replacement or deletion has occurred.
+
+## User-approved distribution continuation
+
+The user listened to the exact `/Users/yanguangchen/Downloads/A Gentle Change for You_1080p.mp4` and approved it: “ok i saw its good, now replace it! then post it on facebook as well via safari”. The user separately confirmed deletion of **only visually matching Coral videos** from the eight GBP galleries, while retaining unrelated older videos and text-only Updates.
+
+On 24 September, the exact 26.732-second MP4 was uploaded through **Photos → Add photos and videos** on all eight managed ON Hair profiles below. Each upload showed “Upload complete” and a new Video 1 card. Most displayed `PENDING` Google review at upload time; the absence of that label later on a branch is not, by itself, a public-live verification. The older Coral video was visually identified by June in pink with the original *A Fresh Look, Your Way* imagery and Burmese captions, and deleted from **Clementi only**. Its Video 2 card disappeared while the new Video 1 remained. No other old gallery item was deleted. Other older videos inspected on Yishun, Bedok, Toa Payoh, Simei, Bukit Merah 163/164 and Block 2 showed different creatives; the matching Coral item was not identified there. Do not delete by ordinal or assume that a missing item was removed by Google.
+
+| GBP branch | Profile ID | June gallery upload | Coral gallery action |
+|---|---|---|---|
+| Toa Payoh | `4234396435072913396` | Upload complete; new Video 1 | No matching Coral identified; unrelated older videos retained |
+| Simei | `12795829818426015998` | Upload complete; new Video 1 | No matching Coral identified; unrelated older videos retained |
+| Bukit Merah 163 | `4927044675466150382` | Upload complete; new Video 1 pending | No matching Coral identified; unrelated older videos retained |
+| Bukit Merah 164 | `11094667919084291682` | Upload complete; new Video 1 | No matching Coral identified; unrelated older videos retained |
+| Block 2 | `9495160456013536782` | Upload complete; new Video 1 pending | No matching Coral identified; unrelated older videos retained |
+| Bedok North 539 | `7730350076301221234` | Upload complete; new Video 1 pending | No matching Coral identified among inspected older videos |
+| Yishun | `10533756789112441873` | Upload complete; new Video 1 pending | No matching Coral identified among inspected older videos |
+| Clementi | `15354606570082984871` | Upload complete; new Video 1 pending | Exact matching Coral Video 2 deleted and absence verified |
+
+The Coral campaign GBP Updates were text-only and were left unchanged. No new GBP Update was requested in this continuation.
+
+Facebook continuation in **Safari**: confirmed logged-in identity Jia Li (`100087204909137`) and public, joined source group `715798822492338`. A search for `နေ့စဉ် ဆံပင်ပုံစံကို နည်းနည်းပြောင်းပြီး` returned no matching source-group post before publishing. Attached the exact downloaded MP4 and posted the following caption. Facebook showed the video is **processing** and will notify when ready; a live source post/Reel URL was not yet available at that observation. Do not duplicate the source upload while processing.
+
+> နေ့စဉ် ဆံပင်ပုံစံကို နည်းနည်းပြောင်းပြီး အသစ်တစ်မျိုး ခံစားကြည့်ချင်ပါသလား။ ✨
+>
+> ON Hair & Beauty မှာ သင်လိုချင်တဲ့ ဆံပင်ပုံစံအကြောင်း အေးအေးဆေးဆေး မေးမြန်းဆွေးနွေးကြည့်ပါ။ သင့်စိတ်ကြိုက် ပုံစံလေးအတွက် နီးစပ်ရာ ON Hair & Beauty ဆိုင်ခွဲကို ဆက်သွယ်နိုင်ပါတယ်။ 💇‍♀️
+>
+> #ONHairAndBeauty #SingaporeMyanmar
+
+## Facebook final verification
+
+The source video finished processing and was found by the exact campaign phrase in source group `715798822492338`. Reel: https://www.facebook.com/reel/1082273941065684/ (27 seconds). This is the approved local June MP4 uploaded through **Safari under Jia Li**. The same Reel was shared with the full Burmese caption to the following established groups, then verified live in each group by ID and matching phrase. Some immediate searches returned no result during indexing; later exact-ID checks found the posts. Do not resubmit.
+
+| Group ID | Result for this campaign |
+|---|---|
+| `715798822492338` | Live verified; original local MP4 upload / source Reel |
+| `1765065940589726` | Live verified; shared Reel |
+| `254584679120105` (`sgmmnews`) | Live verified; shared Reel |
+| `1015065566214229` | Live verified; shared Reel |
+| `1346693313495175` | Live verified; shared Reel |
+| `400578237627032` | Live verified; shared Reel |
+| `3150976601791475` | Live verified on group feed with exact caption and 27-second Reel; three other posts were awaiting administrator approval, but this campaign's post was visible |
+| `195004445628994` | Live verified after search indexing delay; shared Reel |
+| `1138478539957433` | Not submitted: picker has two visually identical `စင်ကာပူရောက်မြန်မာများ` entries without accessible IDs; exact destination could not be established safely |
+| `1222374187943874` | Not submitted: same duplicate-name ambiguity |
+| `3110745002568050` | Skipped: current group purpose observed as jobs-only; salon campaign off-topic |
+| `5841747689213438` | Blocked: five pending posts and pending-content limit still displayed on 24 September; no new submission |
+| `386172886673593` | Blocked: group still paused since 29 August; no new submission |
+| `211360618921341` | Blocked: five pending posts and pending-content limit still displayed on 24 September; no new submission |
+
+**Totals:** eight live verified (source plus seven shares), zero newly queued as pending from this campaign, two duplicate-name destinations left unposted for ID safety, one off-topic skip, and three group-state blocks. The four rule-excluded IDs from the historical registry were not attempted. A one-off account switch to another managed profile occurred while opening an unrelated Facebook notification; Jia Li was explicitly restored and reverified before every subsequent share. No other profile was used to post this campaign.
