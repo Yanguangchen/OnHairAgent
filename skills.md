@@ -70,6 +70,7 @@ For Facebook research, qualification, and posting, also use the installed skill 
 4. Record the local path, size, duration, dimensions, HeyGen project URL if available, avatar, and language checks. Do not invent an unavailable project URL.
 5. Preserve the downloaded original. Transcoding, replacing narration, or editing the video requires an appropriate request or a necessary, explained implementation choice within the current scope.
 6. If the task stops at download, return the clickable absolute file link and the verified result.
+7. If HeyGen's normal Chrome download unexpectedly shows `ERR_BLOCKED_BY_CLIENT`, check whether the MP4 appeared locally despite the error. For a routine retry, close only the affected HeyGen project tab, reopen that saved project in a fresh Chrome tab, and retry its native Download control once; a Chrome restart may also resolve a stale browser session. Verify the actual local MP4 before claiming success. Do not disable browser protections or bypass a persistent block through direct asset URLs. This recovery worked for the 24 September 2026 project after Chrome was restarted; it is not guaranteed for future exports.
 
 ## 4. Qualify the usual Facebook destinations
 
