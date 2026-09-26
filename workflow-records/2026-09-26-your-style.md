@@ -1,5 +1,14 @@
 # 26 September 2026 — Your Style, Your Moment
 
+## Final distribution outcome
+
+- User approved this exact export by replying “publish it” to the local preview/tone-review request.
+- Facebook: seven destinations confirmed live under Jia Li in Safari; seven additional registry destinations skipped due to queues, pause, or current rules. No duplicate retries.
+- Source Reel: https://www.facebook.com/reel/2971883613149055/
+- GBP: all eight actual galleries received the exact local MP4; each new Video 1 was verified Pending. This is not a claim that Google has published the media publicly.
+- GBP Updates: the matching Burmese text-only Update was created at Yishun and copied through Google's UI to exactly the other seven ON Hair profiles. Each of eight post managers independently showed the new text as Published.
+- No old videos, pending Facebook posts, unrelated brands, listing information, or account settings were deleted or changed.
+
 ## Scope and synchronization
 
 - User requested “start worflow again”: a new ON Hair & Beauty campaign using HeyGen → verified local MP4 → Facebook under Jia Li in Safari → eligible ON Hair GBP galleries → Burmese GBP Updates.
@@ -14,7 +23,7 @@
 - Requested vertical 1080p, 22–27 seconds, hard maximum 30 seconds, calm conversational Burmese at normal volume, no speed-up, no Coral substitution.
 - Requested readable Myanmar Unicode captions as directly rendered/rasterized overlays, with broken duplicate caption rendering disabled; actual rendered checks remain required.
 - No prices, discounts, branch counts, location claims, or service guarantees.
-- Status: video generated and downloaded after the assistant restarted Chrome through computer use at the user's explicit request. No distribution yet; exact-version audio review remains open.
+- Status: video generated and downloaded after the assistant restarted Chrome through computer use at the user's explicit request. User subsequently replied “publish it” to the preview/tone-review request; proceed with distribution of this exact export without asking again.
 - Recovery: the first attempt remained at planning/listed resources with no artifacts. Refreshing the saved project did not change this. Stopped it through HeyGen; the page confirmed “Completed 490s / User stopped agent response.” Resumed in the same project, explicitly asking it to use the already-selected June resources and proceed with production. Allowed omission of sentence three if necessary to stay under 30 seconds without rushing. No duplicate project was created.
 - Recovery produced a blueprint after 70 seconds. Plan visibly shows June Avatar, June Voice, Portrait, Burmese (Myanmar), Captions OFF, three scenes, all four requested sentences, direct/rasterized text directions and an estimated 18 seconds. UI showed “Starting video generation”; duration and speech pace must be judged from the actual export, not this estimate.
 - Production subsequently generated all three speaking scenes and assembled the storyboard (363 seconds). At about 14:26 SGT, the artifact showed Processing; final render underway. HeyGen's own claim that overlays were verified is not a substitute for independent exported-frame checks.
@@ -36,7 +45,7 @@
 - Duration: 16.240 seconds; dimensions: 1080 × 1920; video H.264; audio AAC.
 - SHA-256: `4ab608add8c10540a7e77e6e8d3c7b4959cf304cee90600e63fa9ae48c19d65a`.
 - Independently inspected extracted frames spanning all three speaking scenes and the closing frame at 15.3 seconds: June appears throughout; Myanmar glyphs render rather than boxes; Burmese text uses a dark backing; final card preserves ON Hair & Beauty and the Burmese call to action. The second scene uses smaller text than the opening.
-- Audio stream exists, but neither metadata nor screenshots establish calm Burmese delivery. Computer-use does not deliver audible playback to the assistant, and no user listening approval exists for this exact new export. Request its listening review before distribution under the saved QA rule.
+- Audio stream exists, but neither metadata nor screenshots establish calm Burmese delivery. Computer-use does not deliver audible playback to the assistant. After receiving the exact local preview and tone-review question, the user replied “publish it”; this is user approval to distribute this version, not independent assistant audio verification.
 - Previous campaign files remain untouched. No Facebook or GBP writes were made during restart recovery.
 
 ### Requested narration
@@ -54,27 +63,27 @@ ON Hair & Beauty မှာ သင်လိုချင်တဲ့ ပုံစ�
 - That group's current feed included a product sale promotion. Second duplicate-name destination `1222374187943874` was separately resolved by its exact loaded About URL and links: joined/public, 13,363 members; description explicitly allows honest buying/selling. Both are eligible at preflight, subject to current posting restrictions and exact-ID composer confirmation; neither has received this campaign.
 - Google official gallery requirements rechecked on 26 September: at most 30 seconds, 75 MB, and at least 720p. Source: https://support.google.com/business/answer/6103862?hl=en
 - Google account visibly verified as Chen Yanguang (`yanguangchensp@gmail.com`). Current inventory contains six ON Hair profiles in the ON Hair & Beauty business group and Yishun/Clementi in Ungrouped; all eight are marked Verified. Unrelated brands and the closed Hair & Beauty listing are excluded.
-- Facebook submissions: none.
+- Facebook distribution completed: seven confirmed live destinations; seven skipped/restricted destinations. Source Reel: https://www.facebook.com/reel/2971883613149055/ . See per-ID ledger below.
 - Fresh exclusions: `3110745002568050` still describes information/job posts only (full description expanded); skip this salon promotion as off-topic. `386172886673593` still visibly paused by admins since 29 August 2026; skip, do not attempt posting.
 - Fresh queue checks: `5841747689213438` and `211360618921341` each show five pending posts and the explicit pending-content-limit message. Do not submit or remove old pending content to bypass the limit.
-- GBP uploads and Updates: none.
+- GBP gallery uploads completed for all eight profiles; each new Video 1 verified Pending (received, not confirmed publicly live). All eight Updates independently verified Published.
 
 ### Current GBP target inventory
 
 | Branch | Profile ID | Current listed address | Gallery | Update |
 |---|---|---|---|---|
-| Toa Payoh | `4234396435072913396` | 109 Lorong 1 Toa Payoh, 310109 | Not started | Not started |
-| Simei | `12795829818426015998` | 3 Simei Street 6, #04-09 Eastpoint Mall; also 248 Simei street3 #01-130, 528833 | Not started | Not started |
-| Bukit Merah 163 | `4927044675466150382` | Blk 163 Bukit Merah Central, #02-3601, 150163 | Not started | Not started |
-| Bukit Merah 164 | `11094667919084291682` | 164 Bukit Merah Central #02-3601, 150164 | Not started | Not started |
-| Block 2 | `9495160456013536782` | 2 Jalan Bukit Merah #01-5156, 150002 | Not started | Not started |
-| Bedok North 539 | `7730350076301221234` | 539 Bedok North Street 3, #01-651, 460539 | Not started | Not started |
-| Yishun | `10533756789112441873` | 846 Yishun Ring Road, #01-3643, 760846 | Not started | Not started |
-| Clementi | `15354606570082984871` | 727 Clementi West Street 2, #01-252, 120727 | Not started | Not started |
+| Toa Payoh | `4234396435072913396` | 109 Lorong 1 Toa Payoh, 310109 | New Video 1 verified Pending | Published, post manager verified |
+| Simei | `12795829818426015998` | 3 Simei Street 6, #04-09 Eastpoint Mall; also 248 Simei street3 #01-130, 528833 | Upload complete; new Video 1 Pending | Published, post manager verified |
+| Bukit Merah 163 | `4927044675466150382` | Blk 163 Bukit Merah Central, #02-3601, 150163 | Upload complete; new Video 1 Pending | Published, post manager verified |
+| Bukit Merah 164 | `11094667919084291682` | Owner search: #01-3627; copy-post selector: #02-3601, 164 Bukit Merah Central, 150164 (no information edit made) | New Video 1 Pending | Published, post manager verified |
+| Block 2 | `9495160456013536782` | 2 Jalan Bukit Merah #01-5156, 150002 | New Video 1 Pending | Published, post manager verified |
+| Bedok North 539 | `7730350076301221234` | 539 Bedok North Street 3, #01-651, 460539 | New Video 1 Pending | Published, post manager verified |
+| Yishun | `10533756789112441873` | 846 Yishun Ring Road, #01-3643, 760846 | Upload complete; new Video 1 Pending | Published, post manager verified |
+| Clementi | `15354606570082984871` | 727 Clementi West Street 2, #01-252, 120727 | Upload complete; new Video 1 Pending | Published, post manager verified |
 
 Addresses above are read-only inventory, not newly verified business claims. Simei shows two address fragments; the planned generic creative does not include either address, and no profile-information change is in scope.
 
-## Draft caption / GBP Update (not published)
+## Published caption / GBP Update
 
 ကိုယ့်စိတ်ကြိုက် ဆံပင်ပုံစံကို ရှာနေပါသလား။ ✨
 
@@ -88,16 +97,16 @@ Facebook-only hashtags: #ONHairAndBeauty #SingaporeMyanmar
 
 | Group ID | Current preflight | Campaign outcome |
 |---|---|---|
-| `715798822492338` | Joined/public, commercial posts, no prohibition observed | Not submitted |
-| `1765065940589726` | Joined/public, 57,123 members; visible rule prohibits hate/bullying, no promotion ban | Not submitted |
-| `1138478539957433` | Exact identity resolved; useful/polite rule, commercial posts | Not submitted |
-| `1222374187943874` | Exact identity resolved; honest buying/selling allowed | Not submitted |
-| `1015065566214229` | Joined/public, 17,097 members; About has no displayed promotion rule; current feed included jewellery promotion, Jia Li identity | Not submitted |
-| `254584679120105` / `sgmmnews` | Joined/public, 36,907 members; expanded About describes news/information, no explicit promotion ban; comparable feed eligibility check unfinished | Not submitted |
-| `1346693313495175` | Not yet rechecked | Not submitted |
-| `195004445628994` | Not yet rechecked | Not submitted |
-| `400578237627032` | Not yet rechecked | Not submitted |
-| `3150976601791475` | Not yet rechecked | Not submitted |
+| `715798822492338` | Joined/public, commercial posts, no prohibition observed; composer Jia Li | Live in exact-group search: new caption, Jia Li, 16-second Reel https://www.facebook.com/reel/2971883613149055/ |
+| `1765065940589726` | Joined/public, 57,123 members; visible rule prohibits hate/bullying, no promotion ban | Live: Jia Li, exact caption and 16-second Reel 2971883613149055 verified in destination feed |
+| `1138478539957433` | Exact identity resolved; useful/polite rule, commercial posts | Live in exact-group feed: full caption with approved Reel URL, embedded 16-second video; direct canonical-group composer avoided ambiguous picker |
+| `1222374187943874` | Exact identity resolved; honest buying/selling allowed | Live in exact-group feed: full caption with approved Reel URL, embedded 16-second video; direct canonical-group composer avoided ambiguous picker |
+| `1015065566214229` | Joined/public, 17,097 members; About has no displayed promotion rule; current feed included jewellery promotion, Jia Li identity | Live: Jia Li, exact caption and 16-second Reel 2971883613149055 verified in destination feed |
+| `254584679120105` / `sgmmnews` | Joined/public, 36,907; no promotion ban; current feed includes online shop, restaurant and food-order promotions | Live in exact-group feed: Jia Li, new caption and embedded 16-second Reel |
+| `1346693313495175` | Joined/public 28,859; five posts already awaiting approval, confirmed in personal queue | Skipped to avoid adding to existing five-post queue; no new submission and no deletion |
+| `195004445628994` | Joined/public 19,129; expanded current rules prohibit online-sales posts and request no reshared posts | Skipped under current rules |
+| `400578237627032` | Joined/public 37,576; five posts already awaiting approval | Skipped to avoid adding to existing five-post queue; no new submission |
+| `3150976601791475` | Joined/public 35,919; no promotion ban; current restaurant promotion; three prior pending | Initially pending, then admin-approved; exact live permalink verified: https://www.facebook.com/groups/3150976601791475/permalink/4235904486632009/ |
 | `3110745002568050` | Information/job posts only | Skipped as off-topic |
 | `5841747689213438` | Five pending; explicit limit | Blocked; not submitted |
 | `386172886673593` | Paused since 29 August | Blocked; not submitted |
@@ -105,9 +114,12 @@ Facebook-only hashtags: #ONHairAndBeauty #SingaporeMyanmar
 
 The four historically prohibited groups remain excluded: `645671696293852`, `973381313849352`, `520816972874683`, `1526842467811315`.
 
-## Remaining gates
+## Completion and recovery notes
 
 1. Use the verified local MP4 above; generation, restart recovery, download, metadata and sampled visual checks are complete. Do not regenerate or redownload without a reason.
-2. Obtain listening approval for this exact new export, or independently review its actual audio if an appropriate capability becomes available. Never equate audio presence with an audible review.
-3. Recheck eligible destination identity/rules and duplicate markers before each publication.
-4. Maintain per-ID Facebook and per-profile GBP outcomes; distinguish submitted, pending, and live.
+2. Exact-version publication approval received (“publish it” after the preview/tone-review question). Do not ask again; never claim independent audio verification.
+3. Current destination identities and rules checked. Two identically named Facebook groups were reached by exact canonical URLs. Pasting the approved Reel URL with the full caption produced an embedded 16-second video preview; this avoided choosing ambiguous picker entries and both were verified live.
+4. Facebook source native upload took several minutes. After submission, an explicit video-processing notice appeared; group search later exposed the exact new Reel. Processing was not treated as failure and no duplicate was uploaded.
+5. Safari Go to Folder initially suffered a clipboard-read timeout. The latest picker showed the old path; setting the visible PathTextField to the exact new file and pressing Return selected the correct 13.4 MB file. The old path was not submitted.
+6. GBP Description was filled, then End/Space sent to trigger the real input state; exact text was read back before Post. Copy-post selection was reviewed with precisely seven ON Hair checkboxes checked and all unrelated businesses unchecked.
+7. Dated group rules/queues and listing-address conflicts above are observations, not permanent preferences or authorization to change business information. Gallery review is an external pending state; distribution actions are complete.
