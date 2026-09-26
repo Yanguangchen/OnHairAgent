@@ -14,20 +14,30 @@
 - Requested vertical 1080p, 22–27 seconds, hard maximum 30 seconds, calm conversational Burmese at normal volume, no speed-up, no Coral substitution.
 - Requested readable Myanmar Unicode captions as directly rendered/rasterized overlays, with broken duplicate caption rendering disabled; actual rendered checks remain required.
 - No prices, discounts, branch counts, location claims, or service guarantees.
-- Status: video generated, but native local download blocked by Chrome. No export downloaded or distributed yet.
+- Status: video generated and downloaded after the assistant restarted Chrome through computer use at the user's explicit request. No distribution yet; exact-version audio review remains open.
 - Recovery: the first attempt remained at planning/listed resources with no artifacts. Refreshing the saved project did not change this. Stopped it through HeyGen; the page confirmed “Completed 490s / User stopped agent response.” Resumed in the same project, explicitly asking it to use the already-selected June resources and proceed with production. Allowed omission of sentence three if necessary to stay under 30 seconds without rushing. No duplicate project was created.
 - Recovery produced a blueprint after 70 seconds. Plan visibly shows June Avatar, June Voice, Portrait, Burmese (Myanmar), Captions OFF, three scenes, all four requested sentences, direct/rasterized text directions and an estimated 18 seconds. UI showed “Starting video generation”; duration and speech pace must be judged from the actual export, not this estimate.
 - Production subsequently generated all three speaking scenes and assembled the storyboard (363 seconds). At about 14:26 SGT, the artifact showed Processing; final render underway. HeyGen's own claim that overlays were verified is not a substitute for independent exported-frame checks.
 - Final artifact became playable at about 14:29 SGT. Title “Your Style, Your Moment”; UI reports 16 seconds (HeyGen chat says 16.2 seconds). Initial actual preview pixels show June and readable Burmese text on dark backing. Full scene-by-scene visual QA and audible narration review remain unfinished. The short duration alone does not establish calm delivery.
 
-### Local-download blocker
+### Local-download blocker and successful restart recovery
 
 - Native Download → Video → 1080p → Download navigated to the export and Chrome displayed `ERR_BLOCKED_BY_CLIENT` (“This page has been blocked by Chrome”).
 - Checked Downloads for the expected `Your Style, Your Moment_1080p.mp4` or an in-progress `.crdownload`; no match.
 - Applied remembered recovery: closed only the affected tab, reopened the saved project in a fresh Chrome tab, selected the existing completed video artifact, then retried the native 1080p Download once. Same block; second local-file check still found no match.
 - No alternate-host/direct-asset bypass, protection changes, duplicate generation, or manual-download attribution.
-- Preserved the project page for handoff. A Chrome restart resolved the similar issue on 24 September, but it has not been performed in this run. User intervention to restart Chrome is the next recovery step; resume from this exact artifact, not a new generation.
-- Local path, file size/codecs/dimensions/duration/hash cannot be verified until the MP4 is actually saved.
+- Initially preserved the project for handoff. The user then explicitly asked the assistant to restart Chrome using computer use. The assistant used Chrome's normal Quit menu, handled a transient download-in-progress warning conservatively, verified the original browser connection was unavailable, and relaunched Google Chrome from Finder → Applications. Selected the Chen profile and reopened this exact saved HeyGen project; no regeneration, protection changes, or direct-asset bypass.
+- Native Download after the restart succeeded. The MP4 was verified locally, so the download blocker is resolved.
+
+### Verified local artifact and QA
+
+- Path: `/Users/yanguangchen/Downloads/Your Style, Your Moment_1080p.mp4`
+- Size: 13,380,222 bytes.
+- Duration: 16.240 seconds; dimensions: 1080 × 1920; video H.264; audio AAC.
+- SHA-256: `4ab608add8c10540a7e77e6e8d3c7b4959cf304cee90600e63fa9ae48c19d65a`.
+- Independently inspected extracted frames spanning all three speaking scenes and the closing frame at 15.3 seconds: June appears throughout; Myanmar glyphs render rather than boxes; Burmese text uses a dark backing; final card preserves ON Hair & Beauty and the Burmese call to action. The second scene uses smaller text than the opening.
+- Audio stream exists, but neither metadata nor screenshots establish calm Burmese delivery. Computer-use does not deliver audible playback to the assistant, and no user listening approval exists for this exact new export. Request its listening review before distribution under the saved QA rule.
+- Previous campaign files remain untouched. No Facebook or GBP writes were made during restart recovery.
 
 ### Requested narration
 
@@ -97,7 +107,7 @@ The four historically prohibited groups remain excluded: `645671696293852`, `973
 
 ## Remaining gates
 
-1. Resume the completed project after Chrome download recovery; do not regenerate. Complete actual text-pixel, avatar, and narration checks. Never equate audio presence with an audible review.
-2. Download natively and verify local file metadata; exact new-version listening approval is needed only if no available tool can deliver its audio for assistant review.
+1. Use the verified local MP4 above; generation, restart recovery, download, metadata and sampled visual checks are complete. Do not regenerate or redownload without a reason.
+2. Obtain listening approval for this exact new export, or independently review its actual audio if an appropriate capability becomes available. Never equate audio presence with an audible review.
 3. Recheck eligible destination identity/rules and duplicate markers before each publication.
 4. Maintain per-ID Facebook and per-profile GBP outcomes; distinguish submitted, pending, and live.
