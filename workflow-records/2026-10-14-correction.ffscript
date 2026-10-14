@@ -1,0 +1,7 @@
+[0:v]drawbox=x=0:y=0:w=iw:h=72:color=0xF8F7F3:t=fill:enable='gte(t,8.24)*lt(t,17.44)',drawbox=x=0:y=72:w=72:h=1408:color=0xF8F7F3:t=fill:enable='gte(t,8.24)*lt(t,17.44)',drawbox=x=1008:y=72:w=72:h=1408:color=0xF8F7F3:t=fill:enable='gte(t,8.24)*lt(t,17.44)',split=2[vfirst][vlast];
+[vfirst]trim=end=18,setpts=PTS-STARTPTS[v0];
+[vlast]trim=start=19.2,setpts=PTS-STARTPTS[v1];
+[0:a]asplit=2[afirst][alast];
+[afirst]atrim=end=18,asetpts=PTS-STARTPTS[a0];
+[alast]atrim=start=19.2,asetpts=PTS-STARTPTS[a1];
+[v0][a0][v1][a1]concat=n=2:v=1:a=1[vout][aout]
