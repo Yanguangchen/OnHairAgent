@@ -1,9 +1,9 @@
 ---
 name: heygen-burmese-facebook-workflow
-description: Create Burmese June-avatar and June-voice videos in HeyGen Video Agent, download the MP4 locally, and distribute requested campaigns to the usual Facebook groups or ON Hair & Beauty Google Business Profile galleries and Burmese updates.
+description: Create ON Hair Burmese videos and weekly English companion videos with June in HeyGen Video Agent, save MP4s locally, and distribute authorized campaigns to Facebook groups or Google Business Profile galleries and Updates.
 ---
 
-# HeyGen Burmese video, Facebook outreach, and GBP distribution
+# HeyGen Burmese and English videos, Facebook outreach, and GBP distribution
 
 ## Repository synchronization — every session
 
@@ -24,13 +24,24 @@ The shared repository is https://github.com/Yanguangchen/OnHairAgent.git. The pr
 - Open HeyGen Video Agent at https://app.heygen.com/home/video-agent.
 - Always select the **June avatar** using the **Avatar** control inside the AI chat box, and separately select the **June voice** in the voice control. Verify both selections; choosing the June avatar or mentioning June in a prompt does not establish the voice. **Do not filter the voice library to Burmese as a prerequisite:** select June voice, explicitly prompt for Burmese speech and text, and assess the generated result. Never silently substitute Coral or another voice.
 - Explicitly instruct the agent to **speak Burmese** and use **Burmese words** for the script, subtitles, and on-screen text. Use Myanmar Unicode, not romanized Burmese. Retain accurate business names and contact details where needed.
-- For **ON Hair & Beauty**, a Singaporean brand, explicitly ask HeyGen to include licensed stock videos/photos featuring Asian people in the supporting salon/lifestyle scenes so the creative represents its audience. Keep **June avatar and June voice** for the presenter; stock footage supplements, not replaces, June. Use natural contemporary imagery without stereotypes, and do not present stock models or locations as actual ON Hair customers, staff, testimonials, or branches. Check the storyboard and export for the requested stock scenes; use asset descriptions/metadata when available rather than asserting a depicted person's ethnicity or nationality from appearance alone.
+- For **ON Hair & Beauty**, use suitable imagery already available in HeyGen, with June as presenter. The user's 14 October direction removed the earlier requirement for Asian stock imagery; do not require external stock downloads or generated illustrations. Use stock illustratively, never as actual ON Hair customers, staff, testimonials or premises.
 - Generate the finished video and download the MP4 to a folder on the user's computer. The established default is `/Users/yanguangchen/Downloads/`, unless the user specifies another local folder.
 - When asked to use the full workflow, post the downloaded video to the usual Facebook groups with a Burmese caption.
 - The established Facebook identity is **Jia Li in Safari**. Chrome had a different Facebook session in the September 2026 run; verify current identity instead of assuming browser sessions match.
 - Proceed through the requested stages using authorization already provided in the conversation. Do not ask the same permission repeatedly. Follow current tool/platform requirements when an additional confirmation is actually required.
 
 These preferences are durable. Business claims, group permissions, membership counts, pending queues, and interface labels are changeable and must be checked when relevant.
+
+### Weekly English companion — added 30 October 2026
+
+The weekly Wednesday 4 PM Singapore campaign now includes **two separate videos: Burmese plus an English version of the same campaign**. English is additional, not a replacement. Apply the Burmese-specific instructions below only to the Burmese version; use these overrides for English:
+
+- Keep the same **June avatar/character**. Separately select and verify a **female English-speaking voice**; prefer June's voice speaking English for continuity when available. Record the actual voice selection. Do not change June's appearance or imply that choosing the avatar also selects the voice.
+- Prompt for natural English narration, English subtitles and English on-screen text. Keep the same verified message, calm warm conversational delivery, normal volume and gentle call to action; no shouting, invented offers or extra claims. Translate meaning naturally rather than word for word.
+- Use the shared HeyGen-library imagery preference for both language versions.
+- Render, review and save a distinct local MP4 such as `ON-Hair-English-June-YYYY-MM-DD.mp4`. Verify English pronunciation/delivery, June character, readable English text and the actual selected female voice. A Burmese export's listening approval does not approve the English export; apply the same exact-version audio gate before distributing either.
+- Keep language-specific paths, hashes, project URLs, review results, captions and per-destination outcomes in the dated record. Never regenerate or repost a completed language version merely because its companion remains unfinished.
+- The user confirmed weekly English publication to **all eligible ON Hair GBP galleries and GBP Updates**. After review, upload the English MP4 into each actual gallery and publish a separate natural English Update for each branch; verify and record outcomes independently for each language. Keep the Burmese workflow as well. Do not add English posts to the established Burmese Facebook groups without a separate request. The 30 October Facebook deferral remains in force for the current campaign, not a permanent cancellation of the established weekly Burmese workflow.
 
 ## Scope and entry points
 
@@ -59,7 +70,7 @@ For Facebook research, qualification, and posting, also use the installed skill 
    > Create a video for [business] about [verified campaign message]. Use the selected June avatar and the separately selected June voice throughout the speaking scenes. June must speak natural Burmese (Myanmar language) in a calm, warm, conversational tone at a moderate pace and normal volume—never shouting or using an exaggerated announcer voice. Write the narration, subtitles, and all explanatory on-screen text in natural Burmese using Myanmar Unicode, not English narration or romanized Burmese. Preserve the exact business name and verified contact details: [details]. Use only these factual claims: [claims]. End with a gentle [approved call to action].
 
 4. A vertical 9:16 video around 30–45 seconds is a practical default for this Facebook workflow when the user has not specified length or format. This is an implementation default, not an explicit user requirement.
-   For ON Hair briefs, add: “ON Hair & Beauty is a Singaporean brand. Include licensed stock video/photo cutaways featuring Asian adults in contemporary hair-salon or everyday lifestyle settings, representative of our Singaporean audience. Retain June as presenter and June voice for all narration, including voiceover during cutaways. Use stock imagery illustratively, not as real ON Hair customers, staff or premises. Include the stock-scene choices in your storyboard.”
+   For ON Hair briefs, add: “Use suitable salon-related cutaways available within HeyGen. Retain June as presenter and the selected language-version voice for all narration. Use stock imagery illustratively, not as real ON Hair customers, staff or premises. Include the stock-scene choices in your storyboard.”
 5. Review the proposed script/storyboard and available language, avatar, and voice settings. Correct English narration, missing Burmese text, the wrong voice, an incorrect avatar, or shouty delivery before rendering. Audition the spoken Burmese in every speaking scene when the preview is available.
 6. Start generation and follow the visible progress to a completed playable video. Do not buy credits, upgrade plans, or create a subscription without authorization. If existing credits are insufficient, preserve the project and explain the blocker.
 7. Preview the finished video and actually listen to its narration. Check June avatar **and June voice**, natural Burmese pronunciation and calm delivery, readable Burmese text, correct business information, aspect ratio, and audio/video playback. **Inspect actual caption pixels in every speaking scene:** a Burmese-capable font label or HeyGen assurance does not prove that Myanmar letters rendered; square boxes/vertical bars are a failure. Do not finalize or distribute a preview with missing glyphs. Audio presence or loudness measurements alone do not verify the voice or delivery. If the available interface cannot deliver audio to the model, complete the visual and file checks and use the user's listening approval for that exact version when already provided. Only request listening review if it remains missing; record user approval separately from independent assistant audio verification.
