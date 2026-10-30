@@ -1,6 +1,6 @@
 ---
 name: heygen-burmese-facebook-workflow
-description: Create ON Hair Burmese videos and weekly English companion videos with June in HeyGen Video Agent, save MP4s locally, and distribute authorized campaigns to Facebook groups or Google Business Profile galleries and Updates.
+description: Create ON Hair Burmese June videos and English companion videos in HeyGen Video Agent, save MP4s locally, and distribute authorized campaigns to Facebook groups or Google Business Profile galleries and Updates.
 ---
 
 # HeyGen Burmese and English videos, Facebook outreach, and GBP distribution
@@ -36,10 +36,10 @@ These preferences are durable. Business claims, group permissions, membership co
 
 The weekly Wednesday 4 PM Singapore campaign now includes **two separate videos: Burmese plus an English version of the same campaign**. English is additional, not a replacement. Apply the Burmese-specific instructions below only to the Burmese version; use these overrides for English:
 
-- Keep the same **June avatar/character**. Separately select and verify a **female English-speaking voice**; prefer June's voice speaking English for continuity when available. Record the actual voice selection. Do not change June's appearance or imply that choosing the avatar also selects the voice.
+- **Latest preference, 30 October 2026:** for future English videos choose a **different Asian female avatar, not June**, with a separately selected **female Singaporean English/Singlish voice**. Use HeyGen's visible library descriptions and voice previews to select and verify the character/voice; do not infer ethnicity from appearance alone or treat a prompt as proof of a Singaporean voice. Prompt for natural, warm Singaporean conversational delivery, not a caricature or exaggerated slang. Record the actual avatar and voice. If a suitable voice is unavailable or its delivery cannot be verified, ask rather than silently substitute. Burmese videos remain June avatar plus exact June voice. This change applies from the next English generation; the already-approved 30 October June English video is still authorized for this campaign.
 - Prompt for natural English narration, English subtitles and English on-screen text. Keep the same verified message, calm warm conversational delivery, normal volume and gentle call to action; no shouting, invented offers or extra claims. Translate meaning naturally rather than word for word.
 - Use the shared HeyGen-library imagery preference for both language versions.
-- Render, review and save a distinct local MP4 such as `ON-Hair-English-June-YYYY-MM-DD.mp4`. Verify English pronunciation/delivery, June character, readable English text and the actual selected female voice. A Burmese export's listening approval does not approve the English export; apply the same exact-version audio gate before distributing either.
+- Render, review and save a distinct local MP4 such as `ON-Hair-English-[Avatar]-YYYY-MM-DD.mp4`. Verify English pronunciation/delivery, the selected character, readable English text and the actual selected female voice. A Burmese export's listening approval does not approve the English export; apply the same exact-version audio gate before distributing either.
 - Keep language-specific paths, hashes, project URLs, review results, captions and per-destination outcomes in the dated record. Never regenerate or repost a completed language version merely because its companion remains unfinished.
 - The user confirmed weekly English publication to **all eligible ON Hair GBP galleries and GBP Updates**. After review, upload the English MP4 into each actual gallery and publish a separate natural English Update for each branch; verify and record outcomes independently for each language. Keep the Burmese workflow as well. Do not add English posts to the established Burmese Facebook groups without a separate request. The 30 October Facebook deferral remains in force for the current campaign, not a permanent cancellation of the established weekly Burmese workflow.
 
